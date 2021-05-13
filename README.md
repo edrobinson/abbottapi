@@ -1,7 +1,7 @@
 # abbottapi
  Abbott Freestyle Lite Interface
  
- This is a Go app that downloads blood glucose resulte from the
+ This is a Go app that downloads blood glucose results from the
  Abbott Freestyle Lite Meter.
  
  The interface is very simple:
