@@ -20,3 +20,5 @@ The code then displays the PDF in the browser.
 This is a web app of sorts. It uses Go to start aa server on port 3000
 and displays a web page when accessed. The page accepts optional start
 and end dates to filter the results.
+
+I use Win-10 but it should work in other environments...
