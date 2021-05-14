@@ -7,8 +7,8 @@
  The interface is very simple:
  
  1. The connection uses a USB serial port cable.
- 2. The code sends a string - mem - to the meter to trigger the download.
- 3. The meter sents each stored result as a CRLF delimited string.
+ 2. The code sends a string - "mem" - to the meter to trigger the download.
+ 3. The meter sends each stored result as a CRLF delimited string.
  4. The end of the download is singaled by a record containing the string "END".
  5. The data records are written to a text file.
 
